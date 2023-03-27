@@ -1,0 +1,95 @@
+body {
+    background-color: rgb(32, 50, 97);
+}
+
+.ognutyun {
+    display: flex;
+    flex-direction: column;
+}
+
+.zang {
+    width: 144px;
+    height: 85px;
+    border-radius: 60px;
+    background-color: rgb(38, 60, 132);
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    margin-bottom: 15px;
+    color: aliceblue;
+}
+
+.zang img {
+    width: 50px;
+    margin: auto;
+    border-radius: 50px;
+}
+
+.hisun {
+    width: 144px;
+    height: 85px;
+    border-radius: 60px;
+    background-color: rgb(38, 60, 132);
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    color: aliceblue;
+    margin-bottom: 15px;
+}
+
+.dahlich {
+    width: 144px;
+    height: 85px;
+    border-radius: 60px;
+    background-color: rgb(38, 60, 132);
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    margin-bottom: 15px;
+    color: aliceblue;
+}
+
+.dahlich img {
+    width: 55px;
+    height: 55px;
+    margin: auto;
+    border-radius: 50px;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.gumar-text {
+    width: 144px;
+    height: 85px;
+    border-radius: 60px;
+    background-color: rgb(38, 60, 132);
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    margin-bottom: 15px;
+    color: aliceblue;
+
+}
+
+.gumar-menu {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.gumar {
+    width: 144px;
+    height: 85px;
+    border-radius: 60px;
+    background-color: rgb(38, 60, 132);
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    margin-bottom: 15px;
+    color: aliceblue;
+
+}

@@ -1,0 +1,63 @@
+body{
+    background-color:rgb(32, 50, 97); 
+}
+.menu{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+.nkar{
+    margin: auto;
+}
+.nkar img{
+width: 300px;
+height: 300px;
+
+}
+.xax{
+    margin: auto;
+    width: 250px;
+    height: 100px;
+    background-color: rgb(38, 60, 132);
+    border-radius: 40px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    text-decoration: none;
+    border-style: solid;
+}
+#h1{
+    color: aliceblue;
+}
+.kanoner{
+    margin: auto;
+    width: 250px;
+    height: 100px;
+    background-color: rgb(38, 60, 132);
+    border-radius: 40px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px; 
+    border-style: solid;
+    
+}
+#h2{
+    color: aliceblue;
+}
+.dursgal{
+    margin: auto;
+    width: 250px;
+    height: 100px;
+    background-color: rgb(38, 60, 132);
+    border-radius: 40px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    
+}
+#h3{
+    color: aliceblue;
+}
